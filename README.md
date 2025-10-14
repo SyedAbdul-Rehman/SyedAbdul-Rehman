@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Abdul-Rehman</h1>
-<h3 align="center">Passionate ICS Part 2 Student | Exploring Code and Beyond!</h3>
+<h3 align="center">Passionate Bachelor of Data Science (BSDS) Student | Exploring Code and Beyond!</h3>
 
 - 🌱 I’m currently learning **Python**
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
