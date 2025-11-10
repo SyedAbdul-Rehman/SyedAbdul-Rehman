@@ -20,7 +20,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedAbdul-Rehman" alt="SyedAbdul-Rehman" /></a> </p>
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedabdul-rehman&theme=dark" alt="syedabdul-rehman" /></p>
 
-<img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=syedabdul-rehman&show_icons=true&locale=en&layout=compact&theme=dark" alt="syedabdul-rehman"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedabdul-rehman&show_icons=true&locale=en&layout=compact&theme=dark" alt="syedabdul-rehman"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=syedabdul-rehman&show_icons=true&locale=en&theme=dark" alt="syedabdul-rehman" />
 
