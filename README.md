@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Abdul-Rehman</h1>
+  <h1 align="center">Hi 👋, I'm Syed Abdul-Rehman</h1>
 <h3 align="center">Passionate Bachelor of Data Science (BSDS) Student | Exploring Code and Beyond!</h3>
 
 - 🌱 I'm currently learning **Python, Data Analysis & Machine Learning**
@@ -32,24 +32,24 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
+<br>
+<br>
+<br>
+<br>
 
+## 🏆 GitHub Trophies
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedAbdul-Rehman" alt="SyedAbdul-Rehman" /></a>
 </p>
 
+## 📊 GitHub Stats:
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAbdul-Rehman&theme=dark" alt="SyedAbdul-Rehman" />
+  <img src="https://github-readme-stats.shion.dev/api?username=SyedAbdul-Rehman&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="49%" />
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SyedAbdul-Rehman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="41%" />
 </p>
 
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedAbdul-Rehman&show_icons=true&locale=en&layout=compact&theme=dark" alt="SyedAbdul-Rehman"/>
-</td>
-<td width="50%" valign="top">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SyedAbdul-Rehman&show_icons=true&locale=en&theme=dark" alt="SyedAbdul-Rehman" />
-</td>
-</tr>
-</table>
+## ✍️ Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width = "80%"/>
+</p>
